@@ -1,0 +1,13 @@
+# Ignore virtual environments
+yolo_env/
+venv/
+__pycache__/
+
+# Ignore datasets and temporary Colab downloads
+yolo_dataset/
+temp_extraction/
+*.mp4
+*.avi
+
+# Ignore Streamlit cache
+.streamlit/
